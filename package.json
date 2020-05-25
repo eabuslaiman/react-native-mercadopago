@@ -1,0 +1,29 @@
+{
+  "name": "react-native-mercadopago",
+  "version": "1.0.0",
+  "description": "MercadoPago for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eabuslaiman/react-native-mercadopago.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "mercadopago",
+    "checkout",
+    "mercadolibre",
+    "plataforma",
+    "pagos",
+    "argentina"
+  ],
+  "author": "Emma Abuslaiman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eabuslaiman/react-native-mercadopago.git/issues"
+  },
+  "homepage": "https://github.com/eabuslaiman/react-native-mercadopago.git#readme"
+}
